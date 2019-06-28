@@ -1,0 +1,7 @@
+main.c:85:5:main	16	static
+main.c:152:6:SystemClock_Config	88	static
+main.c:191:20:stopwatch_reset	4	static
+main.c:200:24:stopwatch_getticks	4	static
+main.c:205:20:stopwatch_delay	24	static
+main.c:215:10:CalcNanosecondsFromStopwatch	24	static
+main.c:233:6:Error_Handler	4	static
